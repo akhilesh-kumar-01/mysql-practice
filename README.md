@@ -1,2 +1,14 @@
-# mysql-practice
-A collection of structured SQL queries and scripts for B.Tech coursework and DBMS practice. Includes table creation, joins, views, and basic operations.
+# MySQL Practice by Akhilesh Kr
+
+This repository contains structured SQL scripts created for academic practice and self-learning. It's organized to reflect DBMS topics covered in a typical B.Tech CSE curriculum.
+
+## 📘 Topics Covered
+- Table creation
+- Insert queries
+- Basic SELECT, WHERE, ORDER BY
+- Joins (INNER, LEFT, RIGHT)
+- Group By and Having
+- Views
+- Triggers
+
+> Developed as part of my B.Tech CSE learning at NIET, Greater Noida.
